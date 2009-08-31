@@ -4,8 +4,8 @@ http://nata2.org
 @harper
 -----------------
 
-Background  : 
--------------
+h1. Background   
+
 My buddy dylan (@detour1999) and his lovely wife had a child. They took their sweet time naming it. They had awesome ideas - but i thought i would help out by creating a markov chain baby name generator.
 
 Markov chains ALWAYS make things better. 
