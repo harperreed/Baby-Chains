@@ -1,8 +1,8 @@
 h2. Baby Chains
 
 harper@nata2.org
-http://nata2.org
-@harper
+"http://nata2.org":http://nata2.org
+"@harper":http://twitter.com/harper
 
 h3. Background   
 
@@ -11,8 +11,8 @@ My buddy dylan (@detour1999) and his lovely wife had a child. They took their sw
 Markov chains ALWAYS make things better. 
 
 The code is based on code from a post here: 
-http://codeismightier.com/2008/10/generating-domain-names/
-(it is a dead link - so http://codeismightier.com/?s=markov)
+"http://codeismightier.com/2008/10/generating-domain-names/":http://codeismightier.com/2008/10/generating-domain-names/
+(it is a dead link - so "http://codeismightier.com/?s=markov":http://codeismightier.com/?s=markov)
 
 bq. Filename: markov_chain.py
 Copyright: Yongqian Li
@@ -23,7 +23,7 @@ h3. Information
 Basically this looks through a list of names, creates a model based on which letters are frequently near one another and outputs awesomeness. 
 
 You can find more info here:
-http://en.wikipedia.org/wiki/Markov_chain#Markov_text_generators
+"Wikipedia: Markov Text Generators":http://en.wikipedia.org/wiki/Markov_chain#Markov_text_generators
  
 Note: it is used by spammers. wouldn't it be awesome to have a kid named like a spam email!
 
@@ -93,5 +93,5 @@ hacut
 this is awesome. i am awesome. 
 
 hit me up. 
+"@harper":http://twitter.com/harper
 harper@nata2.org
-@harper
