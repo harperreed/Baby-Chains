@@ -6,17 +6,11 @@ harper@nata2.org
 
 h3. Background   
 
-My buddy dylan (@detour1999) and his lovely wife had a child. They took their sweet time naming it. They had awesome ideas - but i thought i would help out by creating a markov chain baby name generator.
+My buddy dylan ("@detour1999":http://twitter.com/detour1999) and his lovely wife had a child. They took their sweet time naming it. They had awesome ideas - but I thought I would help out by creating a markov chain baby name generator.
 
 Markov chains ALWAYS make things better. 
 
-The code is based on code from a post here: 
-"http://codeismightier.com/2008/10/generating-domain-names/":http://codeismightier.com/2008/10/generating-domain-names/
-(it is a dead link - so "http://codeismightier.com/?s=markov":http://codeismightier.com/?s=markov)
-
-bq. Filename: markov_chain.py
-Copyright: Yongqian Li
-License: This code is released under GPLv3
+The code is from the internet. I don't know where it came from. It was part of a IRC bot that i have used for the past 3 years. 
 
 h3. Information 
 
@@ -29,65 +23,47 @@ Note: it is used by spammers. wouldn't it be awesome to have a kid named like a 
 
 h3. Plans
 
-I want to make it so it doesn't have a hard stop at n chars. This is the initial version - so when i grep through my IRC bot source i should be able to release a better version. 
-
+v.02 - uses the irc bot markov chain generator and the results are much better. 
+v.01 - I want to make it so it doesn't have a hard stop at n chars. This is the initial version - so when i grep through my IRC bot source i should be able to release a better version. 
 
 h3. Usage
 
-python baby_chains.py <initial> <length>
+python baby_chains.py <number of names>
 
-bq. harper$ python baby_chains.py h 4
-halia
-hitra
-helle
-haman
-hanna
-harat
-hisha
-hanti
-hella
-hanta
-heria
-haela
-hanah
-hanee
-hanel
-haney
-hirah
-haris
-hatri
-herin
-havan
-hanan
-hante
-harmi
-hilal
-halid
-hiran
-heodo
-haila
-haile
-hrist
-hilas
-hanay
-hilan
-harma
-haell
-herid
-harme
-hikes
-heris
-halin
-hanat
-hanes
-hiket
-hanth
-hayan
-hanie
-hilad
-heacu
-hacut
-
+bq. harper@harper-desktop:~/Desktop/Baby-Chains$ python baby_chains.py 
+Loading names.lst into to brain.
+Brain Reloaded
+Outputting 30 generated names
+Yud
+Amale
+Takaine
+Tulawnsonneshai
+Sani
+Thani
+Matreethara
+Asena
+Prisoko
+Ajay
+Rashmandan
+Iairloriti
+Por
+Jace
+Pelle
+Raj
+Hai
+Cadita
+Linda
+Nai
+Tretalton
+Sharisa
+Zardiesta
+Sha
+Her
+Dhaitla
+Mihan
+Narissillin
+Tapen
+Chrid
 
 ------------
 this is awesome. i am awesome. 
