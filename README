@@ -4,7 +4,7 @@ http://nata2.org
 @harper
 -----------------
 
-h1. Background   
+h2. Background   
 
 My buddy dylan (@detour1999) and his lovely wife had a child. They took their sweet time naming it. They had awesome ideas - but i thought i would help out by creating a markov chain baby name generator.
 
@@ -18,7 +18,7 @@ Filename: markov_chain.py
 Copyright: Yongqian Li
 License: This code is released under GPLv3
 
-Information  : 
+h2. Information  : 
 --------------
 Basically this looks through a list of names, creates a model based on which letters are frequently near one another and outputs awesomeness. 
 
