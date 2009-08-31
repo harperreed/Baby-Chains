@@ -1,4 +1,7 @@
 '''
+
+Tweaked from:
+
 Filename: markov_chain.py
 Copyright: Yongqian Li
 License: This code is released under GPLv3
