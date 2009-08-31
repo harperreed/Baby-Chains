@@ -34,7 +34,7 @@ I want to make it so it doesn't have a hard stop at n chars. This is the initial
 
 h3. Usage
 
-bq. python baby_chains.py <initial> <length>
+python baby_chains.py <initial> <length>
 
 bq. harper$ python baby_chains.py h 4
 halia
@@ -92,5 +92,6 @@ hacut
 ------------
 this is awesome. i am awesome. 
 
+hit me up. 
 harper@nata2.org
 @harper
