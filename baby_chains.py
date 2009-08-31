@@ -11,7 +11,7 @@ if __name__ == "__main__":
     training_text = 'names.lst'
     markovchain = Markov()
     f = open(training_text, 'r')
-    print "Loading "+training_text+" into to brain."
+    print "Loading "+training_text+" into brain."
     markovchain.load_brain(f)
     print 'Brain Reloaded'
     f.close()
