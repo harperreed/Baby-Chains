@@ -4,6 +4,8 @@ harper@nata2.org
 "http://nata2.org":http://nata2.org
 "@harper":http://twitter.com/harper
 
+------------
+
 h3. Background   
 
 My buddy dylan ("@detour1999":http://twitter.com/detour1999) and his lovely wife had a child. They took their sweet time naming it. They had awesome ideas - but I thought I would help out by creating a markov chain baby name generator.
@@ -66,6 +68,7 @@ Tapen
 Chrid
 
 ------------
+
 this is awesome. i am awesome. 
 
 hit me up. 
